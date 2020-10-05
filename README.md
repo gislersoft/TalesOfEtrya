@@ -2,7 +2,7 @@
 
 Este es el repositorio del juego Tales of Etrya del grupo MCV-Univalle.
 
-# Configuración Inicial
+# Configuración Inicial Nuevo Ambiente
 
 Para usuarios de Windows:
 
