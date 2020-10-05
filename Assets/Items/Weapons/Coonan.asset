@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672f01f631fe66a4b94e66e337473e67, type: 3}
+  m_Name: Coonan
+  m_EditorClassIdentifier: 
+  name: Coonan
+  icon: {fileID: 21300000, guid: 629ea3e56e6ceb04886b3c957b331eec, type: 3}
+  weaponRange: 1000
+  weaponAttackSpeed: 5
+  weaponDamage: 1000
+  weaponAmmoRound: 8
+  weaponReloadTime: 5
+  weaponBaseAmmo: 10
+  weaponPrefab: {fileID: 1289521626808358, guid: 38a610cf3aea41c4e9719f4921f5ffaa,
+    type: 2}

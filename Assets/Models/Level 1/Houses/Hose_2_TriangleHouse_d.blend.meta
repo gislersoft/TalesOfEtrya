@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 0f77c4695f1d5f84098b0cd5dc485b5d
+timeCreated: 1525359946
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BoxDoor
+    100002: Bricks_1
+    100004: Bricks_2
+    100006: Bricks_3
+    100008: Bricks_4
+    100010: Bricks_5
+    100012: //RootNode
+    100014: TriangleHouse
+    100016: TriangleHouse_LOD0
+    100018: TriangleHouse_LOD1
+    100020: TriangleHouse_LOD2
+    100022: TriangleHouse_LOD3
+    100024: Material_Preview_Dummy
+    400000: BoxDoor
+    400002: Bricks_1
+    400004: Bricks_2
+    400006: Bricks_3
+    400008: Bricks_4
+    400010: Bricks_5
+    400012: //RootNode
+    400014: TriangleHouse
+    400016: TriangleHouse_LOD0
+    400018: TriangleHouse_LOD1
+    400020: TriangleHouse_LOD2
+    400022: TriangleHouse_LOD3
+    400024: Material_Preview_Dummy
+    2300000: BoxDoor
+    2300002: Bricks_1
+    2300004: Bricks_2
+    2300006: Bricks_3
+    2300008: Bricks_4
+    2300010: Bricks_5
+    2300012: TriangleHouse
+    2300014: TriangleHouse_LOD0
+    2300016: TriangleHouse_LOD1
+    2300018: TriangleHouse_LOD2
+    2300020: TriangleHouse_LOD3
+    2300022: Material_Preview_Dummy
+    3300000: BoxDoor
+    3300002: Bricks_1
+    3300004: Bricks_2
+    3300006: Bricks_3
+    3300008: Bricks_4
+    3300010: Bricks_5
+    3300012: TriangleHouse
+    3300014: TriangleHouse_LOD0
+    3300016: TriangleHouse_LOD1
+    3300018: TriangleHouse_LOD2
+    3300020: TriangleHouse_LOD3
+    3300022: Material_Preview_Dummy
+    4300000: BoxDoor
+    4300002: TriangleHouse
+    4300004: Bricks_1
+    4300006: Bricks_2
+    4300008: Bricks_3
+    4300010: Bricks_4
+    4300012: Bricks_5
+    4300014: TriangleHouse_LOD3
+    4300016: TriangleHouse_LOD2
+    4300018: TriangleHouse_LOD1
+    4300020: TriangleHouse_LOD0
+    4300022: Material_Preview_Dummy
+    6400000: BoxDoor
+    6400002: Bricks_1
+    6400004: Bricks_2
+    6400006: Bricks_3
+    6400008: Bricks_4
+    6400010: Bricks_5
+    6400012: TriangleHouse
+    6400014: TriangleHouse_LOD0
+    6400016: TriangleHouse_LOD1
+    6400018: TriangleHouse_LOD2
+    6400020: TriangleHouse_LOD3
+    6400022: Material_Preview_Dummy
+    7400000: Default Take
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.79792696
+    - 0.6039383
+    - 0.40167645
+    - 0.04852192
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

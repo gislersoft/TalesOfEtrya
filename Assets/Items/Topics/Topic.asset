@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c9879094dedbc4887e3334757b1a3f, type: 3}
+  m_Name: Topic
+  m_EditorClassIdentifier: 
+  topicName: Environment
+  difficulty: 0
+  words:
+  - TREE
+  - ROCK
+  - MOUNTAIN
+  - GRASS
+  images:
+  - {fileID: 21300000, guid: 5fb44492437da214aabc778b78a37edb, type: 3}
+  - {fileID: 21300000, guid: f125095d90381a04fbb87536bd17378c, type: 3}
+  - {fileID: 21300000, guid: 39c080f1828ba0840a4dd06c73848034, type: 3}
+  - {fileID: 21300000, guid: 700942888aabf7649ab79807de2e539a, type: 3}
+  delta: 0
+  weights: {x: 0, y: 0, z: 0}
+  bias: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672f01f631fe66a4b94e66e337473e67, type: 3}
+  m_Name: SMG MP5x
+  m_EditorClassIdentifier: 
+  name: SMG MP5x
+  icon: {fileID: 21300000, guid: 3d8675433a508ec47b8f895201eacf20, type: 3}
+  weaponRange: 1000
+  weaponAttackSpeed: 1
+  weaponDamage: 10
+  weaponAmmoRound: 30
+  weaponReloadTime: 3
+  weaponBaseAmmo: 50
+  weaponPrefab: {fileID: 1596726800793768, guid: 474304778274cc7489091d7cd413b684,
+    type: 2}
+  weaponIKPositions: {fileID: 1135142033325212, guid: c2fcddf30e38c8348bc3be34cc333bdb,
+    type: 2}

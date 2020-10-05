@@ -1,0 +1,5 @@
+Version 1.1:
+- Update for Unity 2017.
+
+Version 1.0:
+- Initial release.

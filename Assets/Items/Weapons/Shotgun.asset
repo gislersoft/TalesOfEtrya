@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672f01f631fe66a4b94e66e337473e67, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  name: Shotgun
+  icon: {fileID: 21300016, guid: fd09957580ac4326916010f1f260975b, type: 3}
+  weaponRange: 1000
+  weaponAttackSpeed: 0.5
+  weaponDamage: 15
+  weaponAmmoRound: 5
+  weaponReloadTime: 3
+  weaponBaseAmmo: 15
+  weaponPrefab: {fileID: 1331156420619744, guid: 49c7fd778aa1ec44eb6cc17bdc78b077,
+    type: 2}
+  weaponIKPositions: {fileID: 1080287589232330, guid: 9b6298e8748acf442a2d62323b31a8a9,
+    type: 2}

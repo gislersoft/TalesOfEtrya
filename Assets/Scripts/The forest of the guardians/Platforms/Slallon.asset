@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10c71f3c095798d47ae2a4346d82a179, type: 3}
+  m_Name: Slallon
+  m_EditorClassIdentifier: 
+  platformName: Slallon
+  yOffset: 20
+  xOffset: 2
+  prefabs:
+  - {fileID: 1625392349124216, guid: 2417580b7d04eca4199b40bd3a37c131, type: 2}
+  - {fileID: 1816461158177154, guid: 5e0610b96ecb0e84dbf94ecd2200a7f9, type: 2}
+  - {fileID: 1491289456789270, guid: 5ff59ac0d75f6e943a5299c639b6eaff, type: 2}
+  - {fileID: 1519015510884590, guid: 27c36aaa879719b41946e7a7b55720a5, type: 2}
+  type: 2

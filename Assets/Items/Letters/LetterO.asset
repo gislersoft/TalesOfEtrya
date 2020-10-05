@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0c0481aec7266b4eb994e181d8680b8, type: 3}
+  m_Name: LetterO
+  m_EditorClassIdentifier: 
+  name: O
+  icon: {fileID: 0}
+  letter: 79
+  letterHolder: {fileID: 1735595461582208, guid: 75e1f491f2eded64698df52e32bdad83,
+    type: 2}

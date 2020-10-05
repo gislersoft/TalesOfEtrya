@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10c71f3c095798d47ae2a4346d82a179, type: 3}
+  m_Name: Purps
+  m_EditorClassIdentifier: 
+  platformName: Purps
+  yOffset: 20
+  xOffset: 2
+  prefabs:
+  - {fileID: 1355988086801526, guid: 3a32bd65413ba2745984bab3f49fed35, type: 2}
+  - {fileID: 1352753578012466, guid: 86f7abcb713ffc742854340275c1eca8, type: 2}
+  - {fileID: 1432626719757530, guid: e6e7aaf01f987924a9c58b86af04b87a, type: 2}
+  - {fileID: 1261902723422298, guid: 59d61a988a0977d48b0b84ced0b046e1, type: 2}
+  - {fileID: 1785663816036946, guid: 2f0153374e6fded4aba7aba6759f6bf9, type: 2}
+  type: 4

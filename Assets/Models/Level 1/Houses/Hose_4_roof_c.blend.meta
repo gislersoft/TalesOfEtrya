@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 8587264bd63f47a4a8a5e04810fc79e8
+timeCreated: 1525358435
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 2FloorHouse
+    100002: BoxDoor_000
+    100004: BoxDoor_003
+    100006: //RootNode
+    100008: MetalicDoor
+    100010: Window
+    100012: Bricks_1
+    100014: Bricks_1_001
+    100016: Bricks_2
+    100018: Bricks_3
+    100020: Bricks_3_001
+    100022: Bricks_4
+    100024: Bricks_5_001
+    100026: Bricks_6
+    100028: Bricks_7
+    100030: 2FloorHouse_LOD0
+    100032: 2FloorHouse_LOD1
+    100034: 2FloorHouse_LOD2
+    100036: 2FloorHouse_LOD3
+    400000: 2FloorHouse
+    400002: BoxDoor_000
+    400004: BoxDoor_003
+    400006: //RootNode
+    400008: MetalicDoor
+    400010: Window
+    400012: Bricks_1
+    400014: Bricks_1_001
+    400016: Bricks_2
+    400018: Bricks_3
+    400020: Bricks_3_001
+    400022: Bricks_4
+    400024: Bricks_5_001
+    400026: Bricks_6
+    400028: Bricks_7
+    400030: 2FloorHouse_LOD0
+    400032: 2FloorHouse_LOD1
+    400034: 2FloorHouse_LOD2
+    400036: 2FloorHouse_LOD3
+    2300000: 2FloorHouse
+    2300002: BoxDoor_000
+    2300004: BoxDoor_003
+    2300006: MetalicDoor
+    2300008: Window
+    2300010: Bricks_1
+    2300012: Bricks_1_001
+    2300014: Bricks_2
+    2300016: Bricks_3
+    2300018: Bricks_3_001
+    2300020: Bricks_4
+    2300022: Bricks_5_001
+    2300024: Bricks_6
+    2300026: Bricks_7
+    2300028: 2FloorHouse_LOD0
+    2300030: 2FloorHouse_LOD1
+    2300032: 2FloorHouse_LOD2
+    2300034: 2FloorHouse_LOD3
+    3300000: 2FloorHouse
+    3300002: BoxDoor_000
+    3300004: BoxDoor_003
+    3300006: MetalicDoor
+    3300008: Window
+    3300010: Bricks_1
+    3300012: Bricks_1_001
+    3300014: Bricks_2
+    3300016: Bricks_3
+    3300018: Bricks_3_001
+    3300020: Bricks_4
+    3300022: Bricks_5_001
+    3300024: Bricks_6
+    3300026: Bricks_7
+    3300028: 2FloorHouse_LOD0
+    3300030: 2FloorHouse_LOD1
+    3300032: 2FloorHouse_LOD2
+    3300034: 2FloorHouse_LOD3
+    4300000: BoxDoor_000
+    4300002: MetalicDoor
+    4300004: 2FloorHouse
+    4300006: Window
+    4300008: BoxDoor_003
+    4300010: Bricks_1
+    4300012: Bricks_1_001
+    4300014: Bricks_2
+    4300016: Bricks_3
+    4300018: Bricks_3_001
+    4300020: Bricks_4
+    4300022: Bricks_5_001
+    4300024: Bricks_6
+    4300026: Bricks_7
+    4300028: 2FloorHouse_LOD3
+    4300030: 2FloorHouse_LOD2
+    4300032: 2FloorHouse_LOD1
+    4300034: 2FloorHouse_LOD0
+    6400000: 2FloorHouse
+    6400002: BoxDoor_000
+    6400004: BoxDoor_003
+    6400006: Bricks_1
+    6400008: Bricks_1_001
+    6400010: Bricks_2
+    6400012: Bricks_3
+    6400014: Bricks_3_001
+    6400016: Bricks_4
+    6400018: Bricks_5_001
+    6400020: Bricks_6
+    6400022: Bricks_7
+    6400024: MetalicDoor
+    6400026: Window
+    6400028: 2FloorHouse_LOD0
+    6400030: 2FloorHouse_LOD1
+    6400032: 2FloorHouse_LOD2
+    6400034: 2FloorHouse_LOD3
+    7400000: Default Take
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.7997955
+    - 0.59863186
+    - 0.4001111
+    - 0.052354492
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

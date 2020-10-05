@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60b27d1bb752efb47a35b8d65993f5e7, type: 3}
+  m_Name: Dense layer 2
+  m_EditorClassIdentifier: 
+  inputs:
+  - rows: 512
+    columns: 1
+    length: 512
+    shape: 0002000001000000
+  results:
+  - rows: 512
+    columns: 1
+    length: 512
+    shape: 0002000001000000
+  bias: 0
+  activationFunction: {fileID: 11400000, guid: 7da6f6fb245724b41a7e8c35c1c9b838, type: 2}
+  units: 512
+  kernel:
+    rows: 512
+    columns: 512
+    length: 262144
+    shape: 0002000000020000
