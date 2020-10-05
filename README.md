@@ -14,7 +14,7 @@ Para usuarios de Windows:
 4. Crear un proyecto de Unity en cualquier carpeta local. Ejemplo: C:\Users\miusuario\Documents\Unity\Repositorio\TOE
 5. Verifique que su Unity tiene visible los archivos Meta en: **Edit** → **Project Settings** → **Editor** → **Version Control Mode** → Visible Meta Files
 6. Verifique que se están serializando los archivos en modo texto en: **Edit** → **Project Settings** → **Editor** → **Asset Serialization Mode** → Force Text
-7. Debe abrir git bash (Se descarga en el paso 1) y asegurarse de que lo ejecuta cómo administrador si la instalación es windows.
+7. Debe abrir git bash (Se descarga en el paso 1) y asegurarse de que lo ejecuta como administrador si la instalación es windows.
 8. ``` cd "C:\Users\miusuario\Documents\Unity\Repositorio\TOE" ```
 9. ``` git clone https://github.com/MCV-Univalle/TalesOfEtrya.git ```
 10. ``` git remote add origin https://github.com/MCV-Univalle/TalesOfEtrya.git ```
