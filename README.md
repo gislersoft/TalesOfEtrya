@@ -1,6 +1,6 @@
 # Tales Of Etrya (ToE)
 
-Este es el repositorio del juego Tales of Etrya del grupo MCV-Univalle.
+Este es el repositorio del juego Tales of Etrya del grupo MCV-Univalle de la Universidad de Univalle.
 
 # Configuración Inicial Nuevo Ambiente
 
