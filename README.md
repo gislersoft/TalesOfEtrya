@@ -6,7 +6,7 @@ Este es el repositorio del juego Tales of Etrya del grupo MCV-Univalle.
 
 Para usuarios de Windows:
 
-> **IMPORTANTE!!** : Por favor, antes de enviar cualquier cambio al repositorio verfique que tenga **EXACTAMENTE o COMPATIBLE** esta versión de Unity: **``` 2020.1.0b5.3485 Personal ```**
+> **IMPORTANTE!!** : Por favor, antes de enviar cualquier cambio al repositorio verfique que tenga **EXACTAMENTE o COMPATIBLE** esta versión de Unity: **``` 2019.2.6f1 Personal ```**
 
 1. Descargar git de este sitio https://git-scm.com/downloads
 2. Usted debe tener una cuenta de github y permisos para acceder al repositorio.
